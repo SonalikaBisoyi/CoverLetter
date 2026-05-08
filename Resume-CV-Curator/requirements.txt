@@ -1,5 +1,0 @@
-huggingface_hub>=0.24.0
-gradio>=4.44.0
-reportlab
-pymupdf
-python-dotenv
